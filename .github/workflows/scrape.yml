@@ -1,0 +1,39 @@
+name: Scrape IND Recognised Sponsors Register
+
+on:
+  schedule:
+    # The IND itself only updates the register once a month, but we
+    # check weekly so a new batch is picked up within days rather
+    # than waiting for a fixed date. Re-running against an unchanged
+    # source just produces an empty diff (no commit).
+    - cron: "0 6 * * 1" # every Monday, 06:00 UTC
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: pip install -r scraper/requirements.txt
+
+      - name: Run scraper
+        run: python scraper/scrape_sponsors.py
+
+      - name: Commit and push updated data
+        run: |
+          git config user.name "sponsor-radar-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add site/data/
+          git diff --cached --quiet || git commit -m "chore: update sponsor register data [skip ci]"
+          git push

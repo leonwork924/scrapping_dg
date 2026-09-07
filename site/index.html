@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Sponsor Radar — IND Recognised Sponsors Monitor</title>
+<meta name="description" content="Weekly monitor of the IND's public register of recognised sponsors, surfacing newly added organisations as relocation leads.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Source+Serif+4:opsz,wght@8..60,400;8..60,600;8..60,700&family=IBM+Plex+Sans:wght@400;500;600&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="sponsor-radar.css">
+</head>
+<body>
+
+<header class="masthead">
+  <div class="masthead__row">
+    <h1 class="masthead__title">Sponsor Radar</h1>
+    <nav class="category-tabs" id="categoryTabs" aria-label="Register category"></nav>
+  </div>
+  <p class="masthead__sub">A weekly read of the IND's public register of recognised sponsors — newly listed organisations, surfaced as leads.</p>
+</header>
+
+<section class="ledger" aria-label="Register status">
+  <div class="ledger__item">
+    <span class="ledger__value" id="statTotal">—</span>
+    <span class="ledger__label">organisations tracked</span>
+  </div>
+  <div class="ledger__item ledger__item--accent">
+    <span class="ledger__value" id="statNew">—</span>
+    <span class="ledger__label">new since last check</span>
+  </div>
+  <div class="ledger__item">
+    <span class="ledger__value" id="statSourceUpdated">—</span>
+    <span class="ledger__label">IND last published</span>
+  </div>
+  <div class="ledger__item">
+    <span class="ledger__value" id="statChecked">—</span>
+    <span class="ledger__label">we last checked</span>
+  </div>
+</section>
+
+<main>
+  <section class="new-entries" aria-labelledby="newEntriesHeading">
+    <h2 id="newEntriesHeading">Newly added this cycle</h2>
+    <p class="section-note">These organisations were not in the register the previous time we checked. Recently recognised sponsors are often about to bring in international employees — early relocation leads.</p>
+    <ul class="new-entries__list" id="newEntriesList">
+      <li class="empty-state">No data yet — waiting on the first scheduled run.</li>
+    </ul>
+  </section>
+
+  <section class="register" aria-labelledby="registerHeading">
+    <div class="register__head">
+      <h2 id="registerHeading">Full register</h2>
+      <input type="search" id="registerSearch" class="register__search" placeholder="Search by organisation or KVK number" aria-label="Search the register" disabled>
+    </div>
+    <p class="section-note" id="registerCount"></p>
+    <div class="register__table-wrap">
+      <table class="register__table">
+        <thead>
+          <tr><th>Organisation</th><th>KVK number</th></tr>
+        </thead>
+        <tbody id="registerBody">
+          <tr><td colspan="2" class="empty-state">No data yet — waiting on the first scheduled run.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </section>
+</main>
+
+<footer class="site-footer">
+  <p>Source: <a href="https://ind.nl/en/public-register-recognised-sponsors" target="_blank" rel="noopener">IND public register of recognised sponsors</a> — a fully public register, no login required. Updated by the IND roughly once a month; this page is refreshed weekly.</p>
+</footer>
+
+<script src="sponsor-radar.js"></script>
+</body>
+</html>
