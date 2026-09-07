@@ -1,0 +1,81 @@
+{
+  "category": "exchange",
+  "source_url": "https://ind.nl/en/public-register-recognised-sponsors/public-register-exchange",
+  "source_last_updated": "3 September 2026",
+  "scraped_at": "2026-09-07T12:18:28.417467+00:00",
+  "count": 18,
+  "organisations": [
+    {
+      "organisation": "Au Pair Agency Mondial B.V.",
+      "kvk": "97381160"
+    },
+    {
+      "organisation": "Au Pair Amsterdam",
+      "kvk": "51119382"
+    },
+    {
+      "organisation": "Au Pair Amsterdam B.V.",
+      "kvk": "42094706"
+    },
+    {
+      "organisation": "Au Pair Exclusive",
+      "kvk": "34373562"
+    },
+    {
+      "organisation": "Au Pair International B.V.",
+      "kvk": "67343252"
+    },
+    {
+      "organisation": "AUPAIR4ALL",
+      "kvk": "32095982"
+    },
+    {
+      "organisation": "Baie B.V.",
+      "kvk": "34257057"
+    },
+    {
+      "organisation": "Beau-pair B.V.",
+      "kvk": "85146242"
+    },
+    {
+      "organisation": "Complete Au Pair B.V.",
+      "kvk": "63473720"
+    },
+    {
+      "organisation": "Family aupair",
+      "kvk": "57563136"
+    },
+    {
+      "organisation": "HBN Au Pair Services B.V.",
+      "kvk": "74460269"
+    },
+    {
+      "organisation": "Hoom Au-Pair",
+      "kvk": "24431716"
+    },
+    {
+      "organisation": "House o Orange Au Pairs",
+      "kvk": "27190773"
+    },
+    {
+      "organisation": "Mission Hollandaise",
+      "kvk": "14089534"
+    },
+    {
+      "organisation": "Sunshine Au Pair B.V.",
+      "kvk": "88410250"
+    },
+    {
+      "organisation": "Super Nanny Au Pair Services",
+      "kvk": "27298036"
+    },
+    {
+      "organisation": "Travel Active Programmes B.V.",
+      "kvk": "12038190"
+    },
+    {
+      "organisation": "World Wide Au Pair B.V.",
+      "kvk": "76595153"
+    }
+  ]
+}

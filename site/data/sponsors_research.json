@@ -1,0 +1,665 @@
+{
+  "category": "research",
+  "source_url": "https://ind.nl/en/public-register-recognised-sponsors/public-register-research",
+  "source_last_updated": "3 September 2026",
+  "scraped_at": "2026-09-07T12:18:28.417467+00:00",
+  "count": 164,
+  "organisations": [
+    {
+      "organisation": "Academisch Ziekenhuis Maastricht",
+      "kvk": "14124959"
+    },
+    {
+      "organisation": "AgriWatch B.V.",
+      "kvk": "66007593"
+    },
+    {
+      "organisation": "Airbus Netherlands B.V.",
+      "kvk": "28086907"
+    },
+    {
+      "organisation": "Almende BV",
+      "kvk": "24307997"
+    },
+    {
+      "organisation": "Ampleon Netherlands B.V.",
+      "kvk": "63399113"
+    },
+    {
+      "organisation": "Amsterdam Tech B.V.",
+      "kvk": "64758990"
+    },
+    {
+      "organisation": "Amsterdam UMC Research B.V.",
+      "kvk": "33284074"
+    },
+    {
+      "organisation": "Amylon Therapeutics B.V.",
+      "kvk": "69562091"
+    },
+    {
+      "organisation": "Apex-Research B.V.",
+      "kvk": "66746876"
+    },
+    {
+      "organisation": "Aquamarijn Micro Filtration B.V.",
+      "kvk": "33247370"
+    },
+    {
+      "organisation": "Artemis Bio-Support B.V.",
+      "kvk": "51502259"
+    },
+    {
+      "organisation": "Artinis Medical Systems B.V.",
+      "kvk": "09127900"
+    },
+    {
+      "organisation": "B.P.R.C.",
+      "kvk": "41146967"
+    },
+    {
+      "organisation": "BaseClear B.V.",
+      "kvk": "28060938"
+    },
+    {
+      "organisation": "Bluecon International B.V.",
+      "kvk": "66143772"
+    },
+    {
+      "organisation": "Breda University of Applied Sciences",
+      "kvk": "41104616"
+    },
+    {
+      "organisation": "Cardialysis B.V.",
+      "kvk": "24319999"
+    },
+    {
+      "organisation": "Centraal Planbureau",
+      "kvk": "52813150"
+    },
+    {
+      "organisation": "Centre for Human Drug Research",
+      "kvk": "41167480"
+    },
+    {
+      "organisation": "Charles River Nederland B.V.",
+      "kvk": "34137756"
+    },
+    {
+      "organisation": "CHILAS B.V.",
+      "kvk": "73281298"
+    },
+    {
+      "organisation": "Cirtec B.V.",
+      "kvk": "50135597"
+    },
+    {
+      "organisation": "CRB Benelux B.V.",
+      "kvk": "51571773"
+    },
+    {
+      "organisation": "CRV B.V.",
+      "kvk": "09128755"
+    },
+    {
+      "organisation": "DSM NL Services B.V.",
+      "kvk": "14028072"
+    },
+    {
+      "organisation": "Dümmen Orange The Netherlands B.V.",
+      "kvk": "24170071"
+    },
+    {
+      "organisation": "Enza Zaden Research & Development B.V.",
+      "kvk": "37116112"
+    },
+    {
+      "organisation": "Erasmus Medisch Centrum",
+      "kvk": "24485070"
+    },
+    {
+      "organisation": "Erasmus Universiteit Rotterdam",
+      "kvk": "24495550"
+    },
+    {
+      "organisation": "Esaote Europe B.V.",
+      "kvk": "14622070"
+    },
+    {
+      "organisation": "Europees Centrum voor Ontwikkelingsmanagement, stichting",
+      "kvk": "41077447"
+    },
+    {
+      "organisation": "Floritec Holding B.V.",
+      "kvk": "34285329"
+    },
+    {
+      "organisation": "Fontys Hogescholen",
+      "kvk": "41097718"
+    },
+    {
+      "organisation": "FUJIFILM Manufacturing Europe B.V.",
+      "kvk": "18025280"
+    },
+    {
+      "organisation": "Fytagoras",
+      "kvk": "28110092"
+    },
+    {
+      "organisation": "Galapagos B.V",
+      "kvk": "28083700"
+    },
+    {
+      "organisation": "Genetwister Technologies B.V.",
+      "kvk": "11043533"
+    },
+    {
+      "organisation": "Genmab B.V.",
+      "kvk": "30169902"
+    },
+    {
+      "organisation": "GenomeScan B.V.",
+      "kvk": "61315532"
+    },
+    {
+      "organisation": "Hanzehogeschool Groningen",
+      "kvk": "41012703"
+    },
+    {
+      "organisation": "Hardt B.V.",
+      "kvk": "66815266"
+    },
+    {
+      "organisation": "Hogeschool van Amsterdam",
+      "kvk": "34215054"
+    },
+    {
+      "organisation": "Hogeschool voor de Kunsten Utrecht",
+      "kvk": "41178974"
+    },
+    {
+      "organisation": "Hogeschool Zuyd",
+      "kvk": "14060995"
+    },
+    {
+      "organisation": "HZPC Holland B.V.",
+      "kvk": "66381010"
+    },
+    {
+      "organisation": "Institute for Housing and Urban Development Studies B.V.",
+      "kvk": "41125933"
+    },
+    {
+      "organisation": "Keygene N.V.",
+      "kvk": "09066631"
+    },
+    {
+      "organisation": "KNAW",
+      "kvk": "54667089"
+    },
+    {
+      "organisation": "KNMI (Koninklijk Nederlands Meteorologisch Instituut)",
+      "kvk": "30276595"
+    },
+    {
+      "organisation": "Koninklijke Bibliotheek",
+      "kvk": "27377634"
+    },
+    {
+      "organisation": "Kuros Biosciences B.V.",
+      "kvk": "30197637"
+    },
+    {
+      "organisation": "KWR Water B.V.",
+      "kvk": "27279653"
+    },
+    {
+      "organisation": "Leids Universitair Medisch Centrum (LUMC)",
+      "kvk": "27366422"
+    },
+    {
+      "organisation": "LioniX International B.V.",
+      "kvk": "65714547"
+    },
+    {
+      "organisation": "Logick Energetics B.V.",
+      "kvk": "75662248"
+    },
+    {
+      "organisation": "Maastro clinic",
+      "kvk": "41070330"
+    },
+    {
+      "organisation": "MARIN Academy B.V.",
+      "kvk": "09135106"
+    },
+    {
+      "organisation": "Max Planck Institute for Psycholinguistics",
+      "kvk": "83865942"
+    },
+    {
+      "organisation": "Mercurna B.V.",
+      "kvk": "68070950"
+    },
+    {
+      "organisation": "Merus B.V.",
+      "kvk": "98602152"
+    },
+    {
+      "organisation": "Merus N.V.",
+      "kvk": "30189136"
+    },
+    {
+      "organisation": "Microflown Technologies B.V.",
+      "kvk": "28077207"
+    },
+    {
+      "organisation": "Mimetas B.V.",
+      "kvk": "53898737"
+    },
+    {
+      "organisation": "Nanomi B.V.",
+      "kvk": "34270847"
+    },
+    {
+      "organisation": "Nedap N.V.",
+      "kvk": "08013836"
+    },
+    {
+      "organisation": "Nederlands Forensisch Instituut",
+      "kvk": "50384511"
+    },
+    {
+      "organisation": "Nederlandse Organisatie voor toegepast-natuurwetenschappelijk onderzoek TNO",
+      "kvk": "27376655"
+    },
+    {
+      "organisation": "Netherlands center for the Clinical advancement of Stem cell & Gene Therapies B.V.",
+      "kvk": "76859134"
+    },
+    {
+      "organisation": "NIZO food research B.V.",
+      "kvk": "09139048"
+    },
+    {
+      "organisation": "NRG PALLAS B.V.",
+      "kvk": "41151233"
+    },
+    {
+      "organisation": "Nutreco Nederland B.V.",
+      "kvk": "16058721"
+    },
+    {
+      "organisation": "NWO Nederlandse Organisatie voor Wetenschappelijk Onderzoek",
+      "kvk": "27367015"
+    },
+    {
+      "organisation": "NXP Semiconductors Netherlands B.V.",
+      "kvk": "17070621"
+    },
+    {
+      "organisation": "Ontwikkelingsmaatschappij Het Idee B.V.",
+      "kvk": "34280684"
+    },
+    {
+      "organisation": "Open Universiteit Nederland",
+      "kvk": "14128608"
+    },
+    {
+      "organisation": "Orange Quantum Systems Operational B.V.",
+      "kvk": "78254299"
+    },
+    {
+      "organisation": "Pamgene International B.V.",
+      "kvk": "17126969"
+    },
+    {
+      "organisation": "Peutz B.V.",
+      "kvk": "12028033"
+    },
+    {
+      "organisation": "PharmaCytics Operations B.V.",
+      "kvk": "62609211"
+    },
+    {
+      "organisation": "Philips Electronics Nederland B.V.",
+      "kvk": "17008551"
+    },
+    {
+      "organisation": "PhiX B.V.",
+      "kvk": "68355793"
+    },
+    {
+      "organisation": "Planbureau voor de Leefomgeving (PBL)",
+      "kvk": "27371143"
+    },
+    {
+      "organisation": "Plantics B.V.",
+      "kvk": "60697431"
+    },
+    {
+      "organisation": "Polymer Technology Group Eindhoven B.V.",
+      "kvk": "17170607"
+    },
+    {
+      "organisation": "Powall Holding B.V.",
+      "kvk": "62101951"
+    },
+    {
+      "organisation": "Prinses Máxima Centrum voor Kinderoncologie B.V.",
+      "kvk": "54327946"
+    },
+    {
+      "organisation": "Promicol B.V.",
+      "kvk": "14066290"
+    },
+    {
+      "organisation": "Protestantse Theologische Universiteit (PThU)",
+      "kvk": "08205747"
+    },
+    {
+      "organisation": "Radboud Universiteit Nijmegen",
+      "kvk": "41055629"
+    },
+    {
+      "organisation": "RH Marine Netherlands B.V.",
+      "kvk": "24193093"
+    },
+    {
+      "organisation": "Rijksinstituut voor Volksgezondheid en Milieu (RIVM)",
+      "kvk": "30276683"
+    },
+    {
+      "organisation": "Rijksuniversiteit Groningen",
+      "kvk": "01179037"
+    },
+    {
+      "organisation": "Robor Electronics B.V.",
+      "kvk": "06076385"
+    },
+    {
+      "organisation": "ROCSYS B.V.",
+      "kvk": "74482343"
+    },
+    {
+      "organisation": "Saxion Hogescholen",
+      "kvk": "38024938"
+    },
+    {
+      "organisation": "Sense Health B.V.",
+      "kvk": "59317132"
+    },
+    {
+      "organisation": "SkylineDx B.V.",
+      "kvk": "58599797"
+    },
+    {
+      "organisation": "Software for Chemistry & Materials B.V.",
+      "kvk": "33301537"
+    },
+    {
+      "organisation": "Software Improvement Group B.V.",
+      "kvk": "34133013"
+    },
+    {
+      "organisation": "Spectro-AG B.V.",
+      "kvk": "75988089"
+    },
+    {
+      "organisation": "Stichting Accare, Universitaire en Algemene Kinder- en Jeugdpsychiatrie Noord-Nederland",
+      "kvk": "41020275"
+    },
+    {
+      "organisation": "Stichting Amsterdam Institute for Global Health and Development",
+      "kvk": "34262058"
+    },
+    {
+      "organisation": "Stichting Amsterdam UMC",
+      "kvk": "64156338"
+    },
+    {
+      "organisation": "Stichting Brainclinics Foundation",
+      "kvk": "76213595"
+    },
+    {
+      "organisation": "Stichting Deltares",
+      "kvk": "41146461"
+    },
+    {
+      "organisation": "Stichting Epilepsie Instellingen Nederland",
+      "kvk": "41222646"
+    },
+    {
+      "organisation": "Stichting European Clinical Research Alliance on Infectious Diseases",
+      "kvk": "85030643"
+    },
+    {
+      "organisation": "Stichting Het Nederlands Kanker Instituut-Antoni van Leeuwenhoek Ziekenhuis",
+      "kvk": "40530817"
+    },
+    {
+      "organisation": "Stichting Het Rijksmuseum",
+      "kvk": "41215141"
+    },
+    {
+      "organisation": "Stichting Hogeschool Rotterdam",
+      "kvk": "41129830"
+    },
+    {
+      "organisation": "Stichting Hogeschool Utrecht",
+      "kvk": "30140523"
+    },
+    {
+      "organisation": "Stichting IHE Delft",
+      "kvk": "41146484"
+    },
+    {
+      "organisation": "Stichting IMEC Nederland",
+      "kvk": "17179812"
+    },
+    {
+      "organisation": "Stichting Internationaal Belasting Documentatie Bureau",
+      "kvk": "41197411"
+    },
+    {
+      "organisation": "Stichting International Groundwater Resources Assesment Centre",
+      "kvk": "52951235"
+    },
+    {
+      "organisation": "Stichting ISOCARP, institute Center of Urban Excellence",
+      "kvk": "65202260"
+    },
+    {
+      "organisation": "Stichting Jan IngenHousz Institute",
+      "kvk": "87455099"
+    },
+    {
+      "organisation": "Stichting Koninklijk Nederlands Lucht- en Ruimtevaartcentrum",
+      "kvk": "41150373"
+    },
+    {
+      "organisation": "Stichting Louis Bolk Instituut",
+      "kvk": "41197208"
+    },
+    {
+      "organisation": "Stichting Maritiem Research Instituut Nederland",
+      "kvk": "09051790"
+    },
+    {
+      "organisation": "Stichting Naturalis Biodiversity Center",
+      "kvk": "41169515"
+    },
+    {
+      "organisation": "Stichting Nederlands Instituut voor Onderzoek van de Gezondheidszorg",
+      "kvk": "41181331"
+    },
+    {
+      "organisation": "Stichting Nederlands Scheepvaartmuseum Amsterdam",
+      "kvk": "41214498"
+    },
+    {
+      "organisation": "Stichting Nederlandse Wetenschappelijk Onderzoek Instituten",
+      "kvk": "41150068"
+    },
+    {
+      "organisation": "Stichting Netherlands eScience Center",
+      "kvk": "55671721"
+    },
+    {
+      "organisation": "Stichting Netherlands Heart Institute",
+      "kvk": "58652205"
+    },
+    {
+      "organisation": "Stichting OpenGeoHub",
+      "kvk": "71844570"
+    },
+    {
+      "organisation": "Stichting Radboud universitair medisch centrum",
+      "kvk": "80262783"
+    },
+    {
+      "organisation": "Stichting Roosevelt Institute for American Studies (RIAS)",
+      "kvk": "41113916"
+    },
+    {
+      "organisation": "Stichting Sanquin Bloedvoorziening",
+      "kvk": "41217565"
+    },
+    {
+      "organisation": "Stichting The Global Center on Adaptation",
+      "kvk": "76050475"
+    },
+    {
+      "organisation": "Stichting Titus Brandsma Instituut",
+      "kvk": "41055512"
+    },
+    {
+      "organisation": "Stichting Universiteit voor Humanistiek",
+      "kvk": "41182028"
+    },
+    {
+      "organisation": "Stichting VU",
+      "kvk": "53815211"
+    },
+    {
+      "organisation": "Stichting Wageningen Research",
+      "kvk": "09098104"
+    },
+    {
+      "organisation": "Stichting Wetsus",
+      "kvk": "01094160"
+    },
+    {
+      "organisation": "SusPhos B.V.",
+      "kvk": "74341367"
+    },
+    {
+      "organisation": "Sustenso Boekelermeer CO2 B.V.",
+      "kvk": "70287872"
+    },
+    {
+      "organisation": "Symeres Netherlands B.V.",
+      "kvk": "09127273"
+    },
+    {
+      "organisation": "Synapse B.V.",
+      "kvk": "14063057"
+    },
+    {
+      "organisation": "Synopsys Software Netherlands B.V.",
+      "kvk": "08110267"
+    },
+    {
+      "organisation": "TBAuctions Netherlands B.V.",
+      "kvk": "34373620"
+    },
+    {
+      "organisation": "TBCertain B.V.",
+      "kvk": "74387502"
+    },
+    {
+      "organisation": "Technische Universiteit Delft",
+      "kvk": "27364265"
+    },
+    {
+      "organisation": "Technische Universiteit Eindhoven",
+      "kvk": "51278871"
+    },
+    {
+      "organisation": "TerraSphere Imaging & GIS B.V.",
+      "kvk": "34294174"
+    },
+    {
+      "organisation": "The Hyve B.V.",
+      "kvk": "55415849"
+    },
+    {
+      "organisation": "Theologische Universiteit Apeldoorn",
+      "kvk": "70692947"
+    },
+    {
+      "organisation": "Theologische Universiteit van de Nederlandse Gereformeerde Kerken",
+      "kvk": "08191312"
+    },
+    {
+      "organisation": "UMCG Universitair Medisch Centrum Groningen",
+      "kvk": "01169570"
+    },
+    {
+      "organisation": "Universitair Medisch Centrum Utrecht",
+      "kvk": "30244197"
+    },
+    {
+      "organisation": "Universiteit Leiden",
+      "kvk": "27368929"
+    },
+    {
+      "organisation": "Universiteit Maastricht",
+      "kvk": "50169181"
+    },
+    {
+      "organisation": "Universiteit Nyenrode B.V.",
+      "kvk": "30201266"
+    },
+    {
+      "organisation": "Universiteit Twente",
+      "kvk": "50130536"
+    },
+    {
+      "organisation": "Universiteit Utrecht",
+      "kvk": "30275924"
+    },
+    {
+      "organisation": "Universiteit van Amsterdam",
+      "kvk": "34370207"
+    },
+    {
+      "organisation": "Universiteit van Tilburg",
+      "kvk": "41095855"
+    },
+    {
+      "organisation": "VSL B.V.",
+      "kvk": "27228703"
+    },
+    {
+      "organisation": "Wageningen Universiteit/ Wageningen University",
+      "kvk": "09215846"
+    },
+    {
+      "organisation": "WaterProof Marine Consultancy & Services B.V.",
+      "kvk": "64234452"
+    },
+    {
+      "organisation": "Waterstudio.nl B.V.",
+      "kvk": "34188681"
+    },
+    {
+      "organisation": "ZEFIRA B.V.",
+      "kvk": "97940933"
+    },
+    {
+      "organisation": "ZoBio B.V.",
+      "kvk": "28103137"
+    }
+  ]
+}

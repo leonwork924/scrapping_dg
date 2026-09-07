@@ -1,0 +1,317 @@
+{
+  "category": "study",
+  "source_url": "https://ind.nl/en/public-register-recognised-sponsors/public-register-study",
+  "source_last_updated": "3 September 2026",
+  "scraped_at": "2026-09-07T12:18:28.417467+00:00",
+  "count": 77,
+  "organisations": [
+    {
+      "organisation": "AIS Vliegopleidingen B.V.",
+      "kvk": "39069280"
+    },
+    {
+      "organisation": "Amsterdamse Hogeschool voor de Kunsten",
+      "kvk": "41210838"
+    },
+    {
+      "organisation": "ArtEZ Hogeschool voor de Kunsten",
+      "kvk": "09109756"
+    },
+    {
+      "organisation": "Avans Hogeschool",
+      "kvk": "41104408"
+    },
+    {
+      "organisation": "Breda University of Applied Sciences",
+      "kvk": "41104616"
+    },
+    {
+      "organisation": "Christelijke Hogeschool Ede (CHE)",
+      "kvk": "41052188"
+    },
+    {
+      "organisation": "Codarts, Hogeschool voor Kunsten",
+      "kvk": "41126801"
+    },
+    {
+      "organisation": "Cornerstone Centre for Intercultural Studies",
+      "kvk": "56495439"
+    },
+    {
+      "organisation": "De Appel",
+      "kvk": "41197650"
+    },
+    {
+      "organisation": "De Ateliers",
+      "kvk": "41222012"
+    },
+    {
+      "organisation": "De Haagse Hogeschool",
+      "kvk": "27255912"
+    },
+    {
+      "organisation": "Erasmus Universiteit Rotterdam",
+      "kvk": "24495550"
+    },
+    {
+      "organisation": "Eurocollege Hogeschool B.V",
+      "kvk": "24343665"
+    },
+    {
+      "organisation": "Fontys Hogescholen",
+      "kvk": "41097718"
+    },
+    {
+      "organisation": "Gerrit Rietveld Academie",
+      "kvk": "40532911"
+    },
+    {
+      "organisation": "Grootseminarie Rolduc",
+      "kvk": "74905627"
+    },
+    {
+      "organisation": "Haarlem Institute for Higher Education B.V.",
+      "kvk": "81822707"
+    },
+    {
+      "organisation": "HAN University of Applied Sciences",
+      "kvk": "09091785"
+    },
+    {
+      "organisation": "Hanzehogeschool Groningen",
+      "kvk": "41012703"
+    },
+    {
+      "organisation": "HAS Hogeschool",
+      "kvk": "41084408"
+    },
+    {
+      "organisation": "Hogeschool der Kunsten Den Haag",
+      "kvk": "41156013"
+    },
+    {
+      "organisation": "Hogeschool Inholland",
+      "kvk": "37099586"
+    },
+    {
+      "organisation": "Hogeschool van Amsterdam",
+      "kvk": "34215054"
+    },
+    {
+      "organisation": "Hogeschool Van Hall Larenstein",
+      "kvk": "01087061"
+    },
+    {
+      "organisation": "Hogeschool voor de Kunsten Utrecht",
+      "kvk": "41178974"
+    },
+    {
+      "organisation": "Hogeschool Windesheim",
+      "kvk": "53815033"
+    },
+    {
+      "organisation": "Hogeschool Zuyd",
+      "kvk": "14060995"
+    },
+    {
+      "organisation": "Hotelschool The Hague",
+      "kvk": "41150185"
+    },
+    {
+      "organisation": "HZ / HZ University of Applied Sciences",
+      "kvk": "41114014"
+    },
+    {
+      "organisation": "Jan van Eyck Academie",
+      "kvk": "41076035"
+    },
+    {
+      "organisation": "Katholieke Pabo Zwolle",
+      "kvk": "41023625"
+    },
+    {
+      "organisation": "Koninklijk Instituut voor de Tropen",
+      "kvk": "33185213"
+    },
+    {
+      "organisation": "Nederlandse Strijk Kwartet Academie (NSKA)",
+      "kvk": "33304666"
+    },
+    {
+      "organisation": "Netherlands Business Academy B.V.",
+      "kvk": "20114088"
+    },
+    {
+      "organisation": "NHL Stenden Hogeschool",
+      "kvk": "41002686"
+    },
+    {
+      "organisation": "Protestantse Theologische Universiteit (PThU)",
+      "kvk": "08205747"
+    },
+    {
+      "organisation": "Radboud Universiteit Nijmegen",
+      "kvk": "41055629"
+    },
+    {
+      "organisation": "Rijksakademie van Beeldende Kunsten",
+      "kvk": "34123218"
+    },
+    {
+      "organisation": "Rijksuniversiteit Groningen",
+      "kvk": "01179037"
+    },
+    {
+      "organisation": "Saxion Hogescholen",
+      "kvk": "38024938"
+    },
+    {
+      "organisation": "Schoolvision B.V.",
+      "kvk": "34254662"
+    },
+    {
+      "organisation": "STC - Group",
+      "kvk": "41131703"
+    },
+    {
+      "organisation": "STC B.V.",
+      "kvk": "37053270"
+    },
+    {
+      "organisation": "Stichting Aeres Groep",
+      "kvk": "41246832"
+    },
+    {
+      "organisation": "Stichting Design Academy Eindhoven",
+      "kvk": "41088091"
+    },
+    {
+      "organisation": "Stichting Global School for Entrepreneurship University of Applied Sciences",
+      "kvk": "52726703"
+    },
+    {
+      "organisation": "Stichting Hogeschool Leiden",
+      "kvk": "41167218"
+    },
+    {
+      "organisation": "Stichting Hogeschool Rotterdam",
+      "kvk": "41129830"
+    },
+    {
+      "organisation": "Stichting Hogeschool Utrecht",
+      "kvk": "30140523"
+    },
+    {
+      "organisation": "Stichting IHE Delft",
+      "kvk": "41146484"
+    },
+    {
+      "organisation": "Stichting IPABO",
+      "kvk": "41207069"
+    },
+    {
+      "organisation": "Stichting Islamic University of Applied Sciences",
+      "kvk": "24280196"
+    },
+    {
+      "organisation": "Stichting Protestants Christelijk Hoger Beroepsonderwijs Utrecht",
+      "kvk": "41180472"
+    },
+    {
+      "organisation": "Stichting Universiteit voor Humanistiek",
+      "kvk": "41182028"
+    },
+    {
+      "organisation": "Stichting Viaa-Gereformeerde Hogeschool",
+      "kvk": "41023884"
+    },
+    {
+      "organisation": "Stichting VU",
+      "kvk": "53815211"
+    },
+    {
+      "organisation": "Stichting Waag Society",
+      "kvk": "41214445"
+    },
+    {
+      "organisation": "Stichting Webster Leiden Campus",
+      "kvk": "41166638"
+    },
+    {
+      "organisation": "Technische Universiteit Delft",
+      "kvk": "27364265"
+    },
+    {
+      "organisation": "Technische Universiteit Eindhoven",
+      "kvk": "51278871"
+    },
+    {
+      "organisation": "Theologische Universiteit Apeldoorn",
+      "kvk": "70692947"
+    },
+    {
+      "organisation": "Theologische Universiteit van de Nederlandse Gereformeerde Kerken",
+      "kvk": "08191312"
+    },
+    {
+      "organisation": "Thim van der Laan Hogeschool voor fysiotherapie",
+      "kvk": "30042639"
+    },
+    {
+      "organisation": "TIAS Business School B.V.",
+      "kvk": "18062669"
+    },
+    {
+      "organisation": "Tio Teach B.V.",
+      "kvk": "06066047"
+    },
+    {
+      "organisation": "Tyndale Theological Seminary",
+      "kvk": "41202924"
+    },
+    {
+      "organisation": "Universiteit Leiden",
+      "kvk": "27368929"
+    },
+    {
+      "organisation": "Universiteit Maastricht",
+      "kvk": "50169181"
+    },
+    {
+      "organisation": "Universiteit Nyenrode B.V.",
+      "kvk": "30201266"
+    },
+    {
+      "organisation": "Universiteit Twente",
+      "kvk": "50130536"
+    },
+    {
+      "organisation": "Universiteit Utrecht",
+      "kvk": "30275924"
+    },
+    {
+      "organisation": "Universiteit van Amsterdam",
+      "kvk": "34370207"
+    },
+    {
+      "organisation": "Universiteit van Tilburg",
+      "kvk": "41095855"
+    },
+    {
+      "organisation": "University of Applied Sciences Europe B.V.",
+      "kvk": "01079590"
+    },
+    {
+      "organisation": "Unknown University of Applied Sciences",
+      "kvk": "63036576"
+    },
+    {
+      "organisation": "Wageningen Universiteit/ Wageningen University",
+      "kvk": "09215846"
+    },
+    {
+      "organisation": "Wittenborg University of Applied Sciences B.V.",
+      "kvk": "08090958"
+    }
+  ]
+}

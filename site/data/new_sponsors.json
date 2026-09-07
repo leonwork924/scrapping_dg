@@ -1,0 +1,29 @@
+{
+  "generated_at": "2026-09-07T12:18:28.417467+00:00",
+  "categories": {
+    "work": {
+      "source_last_updated": "3 September 2026",
+      "is_baseline": true,
+      "new_count": 0,
+      "new_organisations": []
+    },
+    "exchange": {
+      "source_last_updated": "3 September 2026",
+      "is_baseline": true,
+      "new_count": 0,
+      "new_organisations": []
+    },
+    "study": {
+      "source_last_updated": "3 September 2026",
+      "is_baseline": true,
+      "new_count": 0,
+      "new_organisations": []
+    },
+    "research": {
+      "source_last_updated": "3 September 2026",
+      "is_baseline": true,
+      "new_count": 0,
+      "new_organisations": []
+    }
+  }
+}
