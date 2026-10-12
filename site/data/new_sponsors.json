@@ -1,29 +1,388 @@
 {
-  "generated_at": "2026-10-05T06:21:12.039151+00:00",
+  "generated_at": "2026-10-12T14:43:14.252377+00:00",
   "categories": {
     "work": {
-      "source_last_updated": "3 September 2026",
+      "source_last_updated": "5 October 2026",
       "is_baseline": false,
-      "new_count": 0,
-      "new_organisations": []
+      "new_count": 87,
+      "new_organisations": [
+        {
+          "organisation": "4EandR B.V.",
+          "kvk": "81234775"
+        },
+        {
+          "organisation": "ADNOC Global Trading Services B.V.",
+          "kvk": "88712885"
+        },
+        {
+          "organisation": "Advies- en Ingenieursbureau van de Laar B.V.",
+          "kvk": "17050552"
+        },
+        {
+          "organisation": "Ahlem S.A.S.U.",
+          "kvk": "89049713"
+        },
+        {
+          "organisation": "AlgaSpring B.V.",
+          "kvk": "54667992"
+        },
+        {
+          "organisation": "AliExpress International (Netherlands) B.V.",
+          "kvk": "91662834"
+        },
+        {
+          "organisation": "Animal Nutrition & Health Nederland B.V.",
+          "kvk": "95646248"
+        },
+        {
+          "organisation": "Anthura Research 4 B.V.",
+          "kvk": "76004597"
+        },
+        {
+          "organisation": "AT Forwarding B.V.",
+          "kvk": "77089480"
+        },
+        {
+          "organisation": "ATTERO B.V.",
+          "kvk": "05053670"
+        },
+        {
+          "organisation": "B&S Retail B.V.",
+          "kvk": "64793362"
+        },
+        {
+          "organisation": "B2Press B.V.",
+          "kvk": "89402960"
+        },
+        {
+          "organisation": "baann. B.V.",
+          "kvk": "98201743"
+        },
+        {
+          "organisation": "Bonash B.V.",
+          "kvk": "65087852"
+        },
+        {
+          "organisation": "CarbonsAI B.V.",
+          "kvk": "90829891"
+        },
+        {
+          "organisation": "Colosseum Robotics B.V.",
+          "kvk": "42048092"
+        },
+        {
+          "organisation": "Cornerstone Consultancy B.V.",
+          "kvk": "76718409"
+        },
+        {
+          "organisation": "CTK Refrigerations",
+          "kvk": "66044774"
+        },
+        {
+          "organisation": "D&L Chiropractic",
+          "kvk": "90232348"
+        },
+        {
+          "organisation": "De Jong Gorredijk B.V.",
+          "kvk": "01041354"
+        },
+        {
+          "organisation": "DEBx Medical Holding B.V.",
+          "kvk": "74639919"
+        },
+        {
+          "organisation": "DEMCON data driven solutions B.V.",
+          "kvk": "84337257"
+        },
+        {
+          "organisation": "E & C Nederland B.V.",
+          "kvk": "14109676"
+        },
+        {
+          "organisation": "Easypark B.V.",
+          "kvk": "34202913"
+        },
+        {
+          "organisation": "Edsson Software B.V.",
+          "kvk": "30248006"
+        },
+        {
+          "organisation": "ESHA Infra Solutions B.V.",
+          "kvk": "96124075"
+        },
+        {
+          "organisation": "Evondos Group B.V.",
+          "kvk": "75613379"
+        },
+        {
+          "organisation": "Evondos Netherlands B.V.",
+          "kvk": "75613352"
+        },
+        {
+          "organisation": "Eye Security B.V.",
+          "kvk": "88574903"
+        },
+        {
+          "organisation": "F. Wellink Lekkerkerk B.V.",
+          "kvk": "29022235"
+        },
+        {
+          "organisation": "FDR Risk B.V.",
+          "kvk": "87242885"
+        },
+        {
+          "organisation": "Firma H. Holland en Zoon",
+          "kvk": "06012627"
+        },
+        {
+          "organisation": "Founders Quarter B.V.",
+          "kvk": "42086360"
+        },
+        {
+          "organisation": "Frontera NewCo B.V.",
+          "kvk": "42127630"
+        },
+        {
+          "organisation": "GGM Consulting B.V.",
+          "kvk": "93622732"
+        },
+        {
+          "organisation": "Global Food Group B.V.",
+          "kvk": "55990347"
+        },
+        {
+          "organisation": "Globus Medical B.V.",
+          "kvk": "66693608"
+        },
+        {
+          "organisation": "Guideways B.V.",
+          "kvk": "96540885"
+        },
+        {
+          "organisation": "GUILLEMOT NETHERLANDS B.V.",
+          "kvk": "88538559"
+        },
+        {
+          "organisation": "Heineken N.V.",
+          "kvk": "33011433"
+        },
+        {
+          "organisation": "Hestocon Certification Services",
+          "kvk": "64813673"
+        },
+        {
+          "organisation": "Het Koninklijk Concertgebouw N.V.",
+          "kvk": "33014504"
+        },
+        {
+          "organisation": "Het Nederlandse Rode Kruis",
+          "kvk": "40409352"
+        },
+        {
+          "organisation": "Houten",
+          "kvk": "30279619"
+        },
+        {
+          "organisation": "International Dental Center B.V.",
+          "kvk": "84643250"
+        },
+        {
+          "organisation": "ISIFLO",
+          "kvk": "09023510"
+        },
+        {
+          "organisation": "J. van Walraven Holding B.V.",
+          "kvk": "30065779"
+        },
+        {
+          "organisation": "Koninklijke Drukkerij Em. de Jong bv",
+          "kvk": "18022186"
+        },
+        {
+          "organisation": "Konutherm B.V.",
+          "kvk": "08125528"
+        },
+        {
+          "organisation": "Local Bookkeeping B.V.",
+          "kvk": "84836369"
+        },
+        {
+          "organisation": "LS MnM Inc.",
+          "kvk": "42108582"
+        },
+        {
+          "organisation": "Mastercard Nederland",
+          "kvk": "50304348"
+        },
+        {
+          "organisation": "Mentech Innovation B.V.",
+          "kvk": "66736439"
+        },
+        {
+          "organisation": "Metaalwarenindustrie Lichtenvoorde B.V.",
+          "kvk": "08019413"
+        },
+        {
+          "organisation": "Moore MKW Audit B.V.",
+          "kvk": "08150987"
+        },
+        {
+          "organisation": "Nordkraft B.V.",
+          "kvk": "94018847"
+        },
+        {
+          "organisation": "O3 Partners N.V.",
+          "kvk": "96066717"
+        },
+        {
+          "organisation": "One Evolve AI B.V.",
+          "kvk": "42118977"
+        },
+        {
+          "organisation": "OrbusNeich Medical B.V.",
+          "kvk": "32116966"
+        },
+        {
+          "organisation": "Orim Energy B.V.",
+          "kvk": "61297976"
+        },
+        {
+          "organisation": "Pandriks Bake Off B.V.",
+          "kvk": "53254597"
+        },
+        {
+          "organisation": "Pink RF B.V.",
+          "kvk": "63712091"
+        },
+        {
+          "organisation": "Plante Moran Benelux B.V.",
+          "kvk": "99930285"
+        },
+        {
+          "organisation": "Quality Royal B.V.",
+          "kvk": "59563273"
+        },
+        {
+          "organisation": "Reparatie-, Installatie- en Garagebedrijf Markerink B.V.",
+          "kvk": "09050440"
+        },
+        {
+          "organisation": "Sligro Food Group Nederland B.V.",
+          "kvk": "16032202"
+        },
+        {
+          "organisation": "SMS Implementation Engineers B.V.",
+          "kvk": "20088708"
+        },
+        {
+          "organisation": "Spirax-Sarco Netherlands B.V.",
+          "kvk": "58660976"
+        },
+        {
+          "organisation": "Stichting Humankind",
+          "kvk": "41208044"
+        },
+        {
+          "organisation": "Stichting Opora",
+          "kvk": "87222965"
+        },
+        {
+          "organisation": "Tandartspraktijk Genzale B.V.",
+          "kvk": "42023347"
+        },
+        {
+          "organisation": "Tandprothetische Praktijk Broekhuis B.V.",
+          "kvk": "72041102"
+        },
+        {
+          "organisation": "ThroughPut Marketing B.V.",
+          "kvk": "42102623"
+        },
+        {
+          "organisation": "Torrgreen Holding B.V.",
+          "kvk": "69590400"
+        },
+        {
+          "organisation": "Tri-Sen Systems Corporation",
+          "kvk": "52075699"
+        },
+        {
+          "organisation": "Tweede Kamer der Staten-Generaal",
+          "kvk": "82966036"
+        },
+        {
+          "organisation": "Universal Cosmetics B.V.",
+          "kvk": "75368536"
+        },
+        {
+          "organisation": "Urovo Europe B.V.",
+          "kvk": "83126074"
+        },
+        {
+          "organisation": "VAG B.V.",
+          "kvk": "80105130"
+        },
+        {
+          "organisation": "Van Olphen Company B.V.",
+          "kvk": "70165645"
+        },
+        {
+          "organisation": "Vention Technologies B.V.",
+          "kvk": "67664814"
+        },
+        {
+          "organisation": "Vodafone Enterprise Netherlands B.V.",
+          "kvk": "30188151"
+        },
+        {
+          "organisation": "Weldmij B.V.",
+          "kvk": "01182583"
+        },
+        {
+          "organisation": "WIOSS Witron On Site Services GmbH",
+          "kvk": "70784884"
+        },
+        {
+          "organisation": "Worldwide Flight Services Holland B.V.",
+          "kvk": "54969565"
+        },
+        {
+          "organisation": "Xella Kalkzandsteen B.V.",
+          "kvk": "13011639"
+        },
+        {
+          "organisation": "Yam Invest N.V.",
+          "kvk": "24324106"
+        }
+      ]
     },
     "exchange": {
-      "source_last_updated": "3 September 2026",
+      "source_last_updated": "5 October 2026",
       "is_baseline": false,
-      "new_count": 0,
-      "new_organisations": []
+      "new_count": 1,
+      "new_organisations": [
+        {
+          "organisation": "Nedsa Au Pair Nederland B.V.",
+          "kvk": "71960112"
+        }
+      ]
     },
     "study": {
-      "source_last_updated": "3 September 2026",
+      "source_last_updated": "5 October 2026",
       "is_baseline": false,
       "new_count": 0,
       "new_organisations": []
     },
     "research": {
-      "source_last_updated": "3 September 2026",
+      "source_last_updated": "5 October 2026",
       "is_baseline": false,
-      "new_count": 0,
-      "new_organisations": []
+      "new_count": 1,
+      "new_organisations": [
+        {
+          "organisation": "Vargonen B.V.",
+          "kvk": "34354650"
+        }
+      ]
     }
   }
 }
