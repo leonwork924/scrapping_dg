@@ -1,16 +1,16 @@
 {
   "category": "work",
   "source_url": "https://ind.nl/en/public-register-recognised-sponsors/public-register-work",
-  "source_last_updated": "5 October 2026",
-  "scraped_at": "2026-11-02T14:59:54.155382+00:00",
-  "count": 13018,
+  "source_last_updated": "3 November 2026",
+  "scraped_at": "2026-11-09T15:29:58.071745+00:00",
+  "count": 13083,
   "organisations": [
     {
-      "organisation": "\"\"Aa-Dee\"\" Machinefabriek en Staalbouw Nederland B.V.",
+      "organisation": "\"Aa-Dee\" Machinefabriek en Staalbouw Nederland B.V.",
       "kvk": "16051874"
     },
     {
-      "organisation": "\"\"AAE\"\" Advanced Automated Equipment B.V.",
+      "organisation": "\"AAE\" Advanced Automated Equipment B.V.",
       "kvk": "17037842"
     },
     {
@@ -48,6 +48,10 @@
     {
       "organisation": "180 Amsterdam BV",
       "kvk": "34117849"
+    },
+    {
+      "organisation": "1GLOBAL Group B.V.",
+      "kvk": "95777628"
     },
     {
       "organisation": "2 Getthere B.V.",
@@ -106,6 +110,10 @@
       "kvk": "17172882"
     },
     {
+      "organisation": "360 Plastics B.V.",
+      "kvk": "58648216"
+    },
+    {
       "organisation": "360KAS B.V.",
       "kvk": "66831148"
     },
@@ -134,10 +142,6 @@
       "kvk": "30168665"
     },
     {
-      "organisation": "3DM-Engineering",
-      "kvk": "76027287"
-    },
-    {
       "organisation": "3DUniversum B.V.",
       "kvk": "60891831"
     },
@@ -152,10 +156,6 @@
     {
       "organisation": "3P Project Services B.V.",
       "kvk": "20132450"
-    },
-    {
-      "organisation": "3S Money Club",
-      "kvk": "76166120"
     },
     {
       "organisation": "3SC Analytics B.V.",
@@ -630,10 +630,6 @@
       "kvk": "32093604"
     },
     {
-      "organisation": "Accountantskantoor Van Stee B.V.",
-      "kvk": "65626826"
-    },
-    {
       "organisation": "AccountNL.com B.V.",
       "kvk": "84734396"
     },
@@ -850,10 +846,6 @@
       "kvk": "73749079"
     },
     {
-      "organisation": "Acupunctuur Centrum Kockengen",
-      "kvk": "30115542"
-    },
-    {
       "organisation": "ACV Holdings B.V.",
       "kvk": "74561111"
     },
@@ -1014,6 +1006,10 @@
       "kvk": "56507151"
     },
     {
+      "organisation": "Adsomnia B.V.",
+      "kvk": "81707541"
+    },
+    {
       "organisation": "AdSysCo B.V.",
       "kvk": "34194247"
     },
@@ -1096,6 +1092,10 @@
     {
       "organisation": "Advocate Benelux Field Marketing B.V.",
       "kvk": "30132353"
+    },
+    {
+      "organisation": "Advocatenkantoor Mateo Diaz",
+      "kvk": "83524207"
     },
     {
       "organisation": "Adyen N.V.",
@@ -1602,6 +1602,10 @@
       "kvk": "77519256"
     },
     {
+      "organisation": "Airworks Inflatables B.V.",
+      "kvk": "34170530"
+    },
+    {
       "organisation": "AISWEI B.V.",
       "kvk": "75780291"
     },
@@ -1640,6 +1644,10 @@
     {
       "organisation": "Akkodis Netherlands International B.V.",
       "kvk": "34277257"
+    },
+    {
+      "organisation": "Akkodis Netherlands Talent B.V.",
+      "kvk": "83217169"
     },
     {
       "organisation": "AKOS B.V.",
@@ -2274,6 +2282,10 @@
       "kvk": "76963632"
     },
     {
+      "organisation": "Amer Sports Netherlands B.V.",
+      "kvk": "59367261"
+    },
+    {
       "organisation": "America II Europe B.V.",
       "kvk": "80988830"
     },
@@ -2518,14 +2530,6 @@
       "kvk": "54402506"
     },
     {
-      "organisation": "Anachron B.V.",
-      "kvk": "34124936"
-    },
-    {
-      "organisation": "Anachron Technology B.V.",
-      "kvk": "51497190"
-    },
-    {
       "organisation": "Anadolubank Nederland N.V.",
       "kvk": "34239060"
     },
@@ -2652,6 +2656,10 @@
     {
       "organisation": "Angstone B.V.",
       "kvk": "81105460"
+    },
+    {
+      "organisation": "Anhui Yingliu Casting and Machine Europe B.V.",
+      "kvk": "14110560"
     },
     {
       "organisation": "AniCura Netherlands B.V.",
@@ -2804,6 +2812,10 @@
     {
       "organisation": "ANVA B.V.",
       "kvk": "70547319"
+    },
+    {
+      "organisation": "Anvil Industries Holding B.V.",
+      "kvk": "17075362"
     },
     {
       "organisation": "Anvil Ventures The Netherlands B.V.",
@@ -2970,7 +2982,7 @@
       "kvk": "32115550"
     },
     {
-      "organisation": "Applied Micro Electronics \"\"AME\"\" B.V.",
+      "organisation": "Applied Micro Electronics \"AME\" B.V.",
       "kvk": "17092884"
     },
     {
@@ -3654,6 +3666,10 @@
       "kvk": "53764498"
     },
     {
+      "organisation": "ASUS Computer Commerce B.V.",
+      "kvk": "96767677"
+    },
+    {
       "organisation": "ASUS Holland B.V.",
       "kvk": "24302961"
     },
@@ -3906,6 +3922,10 @@
       "kvk": "91831342"
     },
     {
+      "organisation": "Aurelia Netherlands Finco B.V.",
+      "kvk": "91832454"
+    },
+    {
       "organisation": "Aurelia Netherlands TargetCo B.V.",
       "kvk": "94449589"
     },
@@ -3920,10 +3940,6 @@
     {
       "organisation": "Aurora Networks B.V.",
       "kvk": "30202881"
-    },
-    {
-      "organisation": "Aurora Technology B.V.",
-      "kvk": "28076579"
     },
     {
       "organisation": "Aurubis Netherlands B.V.",
@@ -4398,7 +4414,7 @@
       "kvk": "12047903"
     },
     {
-      "organisation": "B.V. Design-Production Link \"\"D.P.L.\"\"",
+      "organisation": "B.V. Design-Production Link \"D.P.L.\"",
       "kvk": "24286607"
     },
     {
@@ -4410,7 +4426,7 @@
       "kvk": "33134110"
     },
     {
-      "organisation": "B.V. Rubberfabriek \"\"Wittenburg\"\"",
+      "organisation": "B.V. Rubberfabriek \"Wittenburg\"",
       "kvk": "32000126"
     },
     {
@@ -4604,6 +4620,10 @@
     {
       "organisation": "Balance Ervaring op Projectbasis B.V.",
       "kvk": "33269431"
+    },
+    {
+      "organisation": "Balance Point Control Services (BPCS) B.V.",
+      "kvk": "04059252"
     },
     {
       "organisation": "Balanced Force B.V.",
@@ -4968,10 +4988,6 @@
     {
       "organisation": "BBLeap B.V.",
       "kvk": "75923238"
-    },
-    {
-      "organisation": "B-Built B.V.",
-      "kvk": "20144793"
     },
     {
       "organisation": "BC Distribution B.V.",
@@ -5490,10 +5506,6 @@
       "kvk": "27277126"
     },
     {
-      "organisation": "Bio Diets B.V.",
-      "kvk": "69288534"
-    },
-    {
       "organisation": "Bio Energy Netherlands B.V.",
       "kvk": "66819083"
     },
@@ -5794,10 +5806,6 @@
       "kvk": "61604003"
     },
     {
-      "organisation": "Blonk Milieu Advies B.V.",
-      "kvk": "24317458"
-    },
-    {
       "organisation": "Bloomon Nederland B.V.",
       "kvk": "61571504"
     },
@@ -6034,6 +6042,10 @@
       "kvk": "27008387"
     },
     {
+      "organisation": "BNP PARIBAS ASSET MANAGEMENT Europe, Netherlands Branch",
+      "kvk": "81007248"
+    },
+    {
       "organisation": "BNP PARIBAS ASSET MANAGEMENT Real Assets Netherlands B.V.",
       "kvk": "30199846"
     },
@@ -6076,6 +6088,10 @@
     {
       "organisation": "BoCari International B.V.",
       "kvk": "58655638"
+    },
+    {
+      "organisation": "Bodewes Products B.V.",
+      "kvk": "02069323"
     },
     {
       "organisation": "Body & Fit Sportsnutrition B.V.",
@@ -6954,10 +6970,6 @@
       "kvk": "34310311"
     },
     {
-      "organisation": "BSUR Agency B.V.",
-      "kvk": "33264480"
-    },
-    {
       "organisation": "BSW Testsystems & Consulting B.V.",
       "kvk": "17126960"
     },
@@ -7322,6 +7334,10 @@
       "kvk": "66509424"
     },
     {
+      "organisation": "C3SA B.V.",
+      "kvk": "96769491"
+    },
+    {
       "organisation": "CA Software Holding B.V.",
       "kvk": "24242191"
     },
@@ -7560,10 +7576,6 @@
     {
       "organisation": "CapitalT Management B.V.",
       "kvk": "74392980"
-    },
-    {
-      "organisation": "Caple B.V.",
-      "kvk": "64272826"
     },
     {
       "organisation": "CAPLINQ Europe B.V.",
@@ -8058,6 +8070,10 @@
       "kvk": "89487621"
     },
     {
+      "organisation": "Celer Supply B.V.",
+      "kvk": "94141894"
+    },
+    {
       "organisation": "Celestia Satellite Test and Simulation B.V.",
       "kvk": "65304209"
     },
@@ -8498,6 +8514,10 @@
       "kvk": "66171717"
     },
     {
+      "organisation": "China Financial Services B.V.",
+      "kvk": "73720771"
+    },
+    {
       "organisation": "China Great Hotel Management B.V.",
       "kvk": "52693457"
     },
@@ -8628,10 +8648,6 @@
     {
       "organisation": "Chiropractie Zoetermeer",
       "kvk": "69056439"
-    },
-    {
-      "organisation": "Chiropractor van der Veen B.V.",
-      "kvk": "09108991"
     },
     {
       "organisation": "Chiropractor Van der Veen v.o.f.",
@@ -8794,6 +8810,10 @@
       "kvk": "60993448"
     },
     {
+      "organisation": "CIRCLE ONE FLEX B.V.",
+      "kvk": "88727009"
+    },
+    {
       "organisation": "CircleCI Netherlands B.V.",
       "kvk": "61013366"
     },
@@ -8928,10 +8948,6 @@
     {
       "organisation": "CKD Europe B.V.",
       "kvk": "24350255"
-    },
-    {
-      "organisation": "CKW Trading B.V.",
-      "kvk": "58889604"
     },
     {
       "organisation": "CL Solutions B.V.",
@@ -9130,8 +9146,16 @@
       "kvk": "80886523"
     },
     {
+      "organisation": "Cloudscaler Technologies B.V.",
+      "kvk": "91388651"
+    },
+    {
       "organisation": "Cloudshapers B.V.",
       "kvk": "17233109"
+    },
+    {
+      "organisation": "Cloudwise B.V.",
+      "kvk": "06073970"
     },
     {
       "organisation": "CLS Services B.V.",
@@ -10422,6 +10446,10 @@
       "kvk": "53188772"
     },
     {
+      "organisation": "Crosby Hops B.V.",
+      "kvk": "76171450"
+    },
+    {
       "organisation": "Cross Options International I B.V.",
       "kvk": "33159851"
     },
@@ -10504,6 +10532,10 @@
     {
       "organisation": "CSafe Global Coöperatief U.A.",
       "kvk": "58418954"
+    },
+    {
+      "organisation": "CSB Energy Technology (EMEA) B.V.",
+      "kvk": "24358151"
     },
     {
       "organisation": "C-Shipping B.V.",
@@ -10630,6 +10662,10 @@
       "kvk": "34175039"
     },
     {
+      "organisation": "Cusp AI B.V.",
+      "kvk": "94580715"
+    },
+    {
       "organisation": "Customs Support Group B.V.",
       "kvk": "24294906"
     },
@@ -10740,6 +10776,10 @@
     {
       "organisation": "D&M Europe B.V.",
       "kvk": "17073774"
+    },
+    {
+      "organisation": "d&u audit B.V.",
+      "kvk": "02032226"
     },
     {
       "organisation": "D. SOLUTIONS B.V.",
@@ -11190,6 +11230,10 @@
       "kvk": "63919028"
     },
     {
+      "organisation": "DC Squad B.V.",
+      "kvk": "98159356"
+    },
+    {
       "organisation": "DCA Dienstverlening",
       "kvk": "83940464"
     },
@@ -11566,6 +11610,10 @@
       "kvk": "78648777"
     },
     {
+      "organisation": "Dekimo Experts Utrecht B.V.",
+      "kvk": "95439641"
+    },
+    {
       "organisation": "Dekker Management Beheer B.V.",
       "kvk": "36030162"
     },
@@ -11882,6 +11930,10 @@
       "kvk": "67277608"
     },
     {
+      "organisation": "Dental Clinics Klazienaveen B.V.",
+      "kvk": "54911648"
+    },
+    {
       "organisation": "Dental Clinics Veenendaal B.V.",
       "kvk": "61835161"
     },
@@ -11896,6 +11948,10 @@
     {
       "organisation": "Dental365 Rotterdam B.V.",
       "kvk": "67451551"
+    },
+    {
+      "organisation": "Denti B.V.",
+      "kvk": "32172555"
     },
     {
       "organisation": "Dentons Europe LLP",
@@ -12328,10 +12384,6 @@
     {
       "organisation": "Dimerco Express Netherlands B.V.",
       "kvk": "34104688"
-    },
-    {
-      "organisation": "Dinel Construction B.V.",
-      "kvk": "24326419"
     },
     {
       "organisation": "Dinerate B.V.",
@@ -13070,10 +13122,6 @@
       "kvk": "76705099"
     },
     {
-      "organisation": "Dutch Related Services B.V.",
-      "kvk": "73996025"
-    },
-    {
       "organisation": "Dutch Research Institute for Transitions B.V.",
       "kvk": "51760630"
     },
@@ -13318,6 +13366,10 @@
       "kvk": "32062776"
     },
     {
+      "organisation": "EAGM B.V.",
+      "kvk": "57374317"
+    },
+    {
       "organisation": "EarthToday.Com B.V.",
       "kvk": "72614439"
     },
@@ -13426,10 +13478,6 @@
       "kvk": "08113175"
     },
     {
-      "organisation": "EATRIS ERIC",
-      "kvk": "59239247"
-    },
-    {
       "organisation": "eBay International Management B.V.",
       "kvk": "71993312"
     },
@@ -13480,6 +13528,10 @@
     {
       "organisation": "ECCT",
       "kvk": "17078777"
+    },
+    {
+      "organisation": "ECE B.V.",
+      "kvk": "64251039"
     },
     {
       "organisation": "ECEM European Chemical Marketing B.V.",
@@ -13682,6 +13734,10 @@
       "kvk": "50563319"
     },
     {
+      "organisation": "EEW Energy from Waste Delfzijl B.V.",
+      "kvk": "02098589"
+    },
+    {
       "organisation": "EF Corporate Education B.V.",
       "kvk": "34161319"
     },
@@ -13864,6 +13920,10 @@
     {
       "organisation": "Elanco Nederland B.V.",
       "kvk": "71762345"
+    },
+    {
+      "organisation": "Elari B.V.",
+      "kvk": "34268115"
     },
     {
       "organisation": "elasticsearch B.V.",
@@ -14140,6 +14200,10 @@
     {
       "organisation": "Emergo Europe Consulting B.V.",
       "kvk": "27345543"
+    },
+    {
+      "organisation": "Emergo Services B.V.",
+      "kvk": "06032852"
     },
     {
       "organisation": "Emerson Automation Solutions Final Control Netherlands B.V.",
@@ -14786,6 +14850,10 @@
       "kvk": "69280878"
     },
     {
+      "organisation": "Ergon International N.V.",
+      "kvk": "36046330"
+    },
+    {
       "organisation": "ERICO Europe B.V.",
       "kvk": "18029351"
     },
@@ -15008,6 +15076,10 @@
     {
       "organisation": "Etteplan Netherlands B.V.",
       "kvk": "18050847"
+    },
+    {
+      "organisation": "EU Capital Trade B.V.",
+      "kvk": "86530968"
     },
     {
       "organisation": "EU Funding B.V.",
@@ -15336,6 +15408,10 @@
     {
       "organisation": "Eva Airways Corporation (Netherlands Branch)",
       "kvk": "34092638"
+    },
+    {
+      "organisation": "Eva BioPharma B.V.",
+      "kvk": "82603243"
     },
     {
       "organisation": "Evalan B.V.",
@@ -15814,6 +15890,10 @@
       "kvk": "67068731"
     },
     {
+      "organisation": "Facility, Service & Management B.V.",
+      "kvk": "18086024"
+    },
+    {
       "organisation": "Facta Elektrotechniek B.V.",
       "kvk": "33250294"
     },
@@ -15840,10 +15920,6 @@
     {
       "organisation": "FactSet Benelux B.V.",
       "kvk": "20132144"
-    },
-    {
-      "organisation": "Faculty of Skills",
-      "kvk": "53801016"
     },
     {
       "organisation": "Fagron B.V.",
@@ -16306,10 +16382,6 @@
       "kvk": "68914016"
     },
     {
-      "organisation": "Financiële Diensten Amsterdam B.V.",
-      "kvk": "33187036"
-    },
-    {
       "organisation": "FinanSentra B.V.",
       "kvk": "67289010"
     },
@@ -16642,6 +16714,10 @@
       "kvk": "34195553"
     },
     {
+      "organisation": "Flits Software B.V.",
+      "kvk": "97063398"
+    },
+    {
       "organisation": "Flitsmeister B.V.",
       "kvk": "55408567"
     },
@@ -16878,10 +16954,6 @@
       "kvk": "62049933"
     },
     {
-      "organisation": "Fonq.nl B.V.",
-      "kvk": "30193631"
-    },
-    {
       "organisation": "Fontem Ventures B.V.",
       "kvk": "56714955"
     },
@@ -16980,6 +17052,10 @@
     {
       "organisation": "Fork and Grate Payroll Services B.V.",
       "kvk": "66853826"
+    },
+    {
+      "organisation": "Forkliftcenter Services B.V.",
+      "kvk": "54704553"
     },
     {
       "organisation": "Form International B.V.",
@@ -17722,6 +17798,10 @@
       "kvk": "24158637"
     },
     {
+      "organisation": "GameGeneration B.V.",
+      "kvk": "78315506"
+    },
+    {
       "organisation": "Gamegos B.V.",
       "kvk": "73286974"
     },
@@ -18076,6 +18156,10 @@
     {
       "organisation": "GeoJunxion B.V.",
       "kvk": "24284810"
+    },
+    {
+      "organisation": "Geokapti B.V.",
+      "kvk": "86007203"
     },
     {
       "organisation": "Geolog North Sea B.V.",
@@ -18526,6 +18610,10 @@
       "kvk": "73844780"
     },
     {
+      "organisation": "GN Audio Benelux B.V.",
+      "kvk": "20113074"
+    },
+    {
       "organisation": "GN Hearing Benelux B.V.",
       "kvk": "09033081"
     },
@@ -18704,6 +18792,10 @@
     {
       "organisation": "GOT Technologies B.V.",
       "kvk": "58183973"
+    },
+    {
+      "organisation": "Gotink Catering B.V.",
+      "kvk": "38015173"
     },
     {
       "organisation": "GOTO EUROPE B.V.",
@@ -18926,10 +19018,6 @@
       "kvk": "62576593"
     },
     {
-      "organisation": "Greening Components B.V.",
-      "kvk": "59720301"
-    },
-    {
       "organisation": "Greenleaf Europe B.V.",
       "kvk": "14093051"
     },
@@ -19138,6 +19226,10 @@
       "kvk": "51877058"
     },
     {
+      "organisation": "GTM-Advanced Structures B.V.",
+      "kvk": "24369125"
+    },
+    {
       "organisation": "GTS Investments B.V.",
       "kvk": "53438949"
     },
@@ -19182,10 +19274,6 @@
       "kvk": "92327664"
     },
     {
-      "organisation": "Güller Güller Architecture Urbanism",
-      "kvk": "24466419"
-    },
-    {
       "organisation": "GumGum Netherlands B.V.",
       "kvk": "54711746"
     },
@@ -19228,10 +19316,6 @@
     {
       "organisation": "Güven Supermarkt B.V.",
       "kvk": "70265208"
-    },
-    {
-      "organisation": "Guy Carpenter, Netherlands Branch",
-      "kvk": "61835293"
     },
     {
       "organisation": "GVA Textielveredeling B.V.",
@@ -20046,6 +20130,10 @@
       "kvk": "54601312"
     },
     {
+      "organisation": "HelloFresh New Ventures B.V.",
+      "kvk": "95592539"
+    },
+    {
       "organisation": "Helloprint B.V.",
       "kvk": "64710815"
     },
@@ -20242,6 +20330,10 @@
       "kvk": "70656657"
     },
     {
+      "organisation": "HG International B.V.",
+      "kvk": "39063985"
+    },
+    {
       "organisation": "HHOYA B.V.",
       "kvk": "18132271"
     },
@@ -20396,10 +20488,6 @@
     {
       "organisation": "Hisamitsu Netherlands B.V.",
       "kvk": "99009250"
-    },
-    {
-      "organisation": "Hitachi Astemo Netherlands B.V.",
-      "kvk": "53118561"
     },
     {
       "organisation": "Hitachi Construction Machinery (Europe) N.V.",
@@ -20758,6 +20846,10 @@
       "kvk": "61873268"
     },
     {
+      "organisation": "Hoppe Schiedam B.V.",
+      "kvk": "55448682"
+    },
+    {
       "organisation": "Hoppenbrouwers Techniek",
       "kvk": "18034290"
     },
@@ -20896,6 +20988,10 @@
     {
       "organisation": "Hotmart Technology Holding B.V.",
       "kvk": "60332433"
+    },
+    {
+      "organisation": "Hotpay B.V.",
+      "kvk": "98533983"
     },
     {
       "organisation": "Hotraco Agri B.V.",
@@ -21044,6 +21140,10 @@
     {
       "organisation": "HSU.nl",
       "kvk": "58935010"
+    },
+    {
+      "organisation": "HSWE Investments B.V.",
+      "kvk": "71143343"
     },
     {
       "organisation": "HTL-DHT B.V.",
@@ -21520,6 +21620,10 @@
     {
       "organisation": "Icepay B.V.",
       "kvk": "27348492"
+    },
+    {
+      "organisation": "Iceventures B.V.",
+      "kvk": "34154076"
     },
     {
       "organisation": "iChoosr B.V.",
@@ -22054,7 +22158,7 @@
       "kvk": "74145614"
     },
     {
-      "organisation": "Indian Restaurant \"\"Koh-I-Noor\"\"",
+      "organisation": "Indian Restaurant \"Koh-I-Noor\"",
       "kvk": "33166283"
     },
     {
@@ -22166,10 +22270,6 @@
       "kvk": "76234312"
     },
     {
-      "organisation": "Infinity Recycling B.V.",
-      "kvk": "73308846"
-    },
-    {
       "organisation": "Infinium Consulting B.V.",
       "kvk": "37149913"
     },
@@ -22220,10 +22320,6 @@
     {
       "organisation": "Informa Markets B.V.",
       "kvk": "30076951"
-    },
-    {
-      "organisation": "Informatica Software Nederland B.V.",
-      "kvk": "64688127"
     },
     {
       "organisation": "Information Development Europe B.V.",
@@ -22360,6 +22456,10 @@
     {
       "organisation": "Ink.Fish Kitchen B.V.",
       "kvk": "97725617"
+    },
+    {
+      "organisation": "InKaart.nu",
+      "kvk": "53624254"
     },
     {
       "organisation": "INKEF Capital B.V.",
@@ -22598,10 +22698,6 @@
       "kvk": "63209020"
     },
     {
-      "organisation": "INSPX",
-      "kvk": "70517266"
-    },
-    {
       "organisation": "Installatiebedrijf Gebr. Janssen B.V.",
       "kvk": "16070037"
     },
@@ -22624,6 +22720,10 @@
     {
       "organisation": "InsTech Netherlands B.V.",
       "kvk": "69008434"
+    },
+    {
+      "organisation": "Institut de Sélection Animale B.V.",
+      "kvk": "16080941"
     },
     {
       "organisation": "Institute for DiagNostic Accuracy Consulting B.V.",
@@ -22774,6 +22874,10 @@
       "kvk": "04068371"
     },
     {
+      "organisation": "InterGlobe Aviation Limited",
+      "kvk": "91898765"
+    },
+    {
       "organisation": "Intergraph Benelux B.V.",
       "kvk": "34052453"
     },
@@ -22890,7 +22994,7 @@
       "kvk": "52086755"
     },
     {
-      "organisation": "Internationale Montessori Vereniging \"\"Association Montessori Internationale\"\" A.M.I.",
+      "organisation": "Internationale Montessori Vereniging \"Association Montessori Internationale\" A.M.I.",
       "kvk": "40531711"
     },
     {
@@ -23786,7 +23890,7 @@
       "kvk": "17123108"
     },
     {
-      "organisation": "JDE Peet's N.V.",
+      "organisation": "JDE Peet's B.V.",
       "kvk": "73160377"
     },
     {
@@ -25562,10 +25666,6 @@
       "kvk": "69531285"
     },
     {
-      "organisation": "KS Industries B.V.",
-      "kvk": "23086991"
-    },
-    {
       "organisation": "KSB Industries B.V.",
       "kvk": "28058288"
     },
@@ -26142,6 +26242,10 @@
       "kvk": "41208154"
     },
     {
+      "organisation": "Legian Legends B.V.",
+      "kvk": "27199724"
+    },
+    {
       "organisation": "LegionellaDossier Tech B.V.",
       "kvk": "80989187"
     },
@@ -26394,6 +26498,10 @@
       "kvk": "80203779"
     },
     {
+      "organisation": "Liberty Global Holding B.V.",
+      "kvk": "34242712"
+    },
+    {
       "organisation": "Liberty Global Technology Services B.V.",
       "kvk": "80203582"
     },
@@ -26550,6 +26658,10 @@
       "kvk": "23074334"
     },
     {
+      "organisation": "Lindor Products B.V.",
+      "kvk": "23074331"
+    },
+    {
       "organisation": "Lindsay International Holdings B.V.",
       "kvk": "34262200"
     },
@@ -26654,6 +26766,10 @@
       "kvk": "24407492"
     },
     {
+      "organisation": "Liquit Software B.V.",
+      "kvk": "64053326"
+    },
+    {
       "organisation": "Liroy B.V.",
       "kvk": "27186427"
     },
@@ -26680,6 +26796,10 @@
     {
       "organisation": "Littelfuse Netherlands B.V.",
       "kvk": "72434341"
+    },
+    {
+      "organisation": "Little India Amsterdam B.V.",
+      "kvk": "84539380"
     },
     {
       "organisation": "Liugong Machinery Europe B.V.",
@@ -26744,6 +26864,10 @@
     {
       "organisation": "LM Wind Power R&D (Holland) B.V.",
       "kvk": "33256041"
+    },
+    {
+      "organisation": "lnfinity 2 Capital B.V.",
+      "kvk": "73308846"
     },
     {
       "organisation": "LNRS Data Services B.V.",
@@ -26938,10 +27062,6 @@
       "kvk": "09100466"
     },
     {
-      "organisation": "Lowell Financial Limited",
-      "kvk": "73389579"
-    },
-    {
       "organisation": "Lowland Nederland B.V.",
       "kvk": "34214161"
     },
@@ -26960,10 +27080,6 @@
     {
       "organisation": "Loyyo B.V.",
       "kvk": "78623707"
-    },
-    {
-      "organisation": "LR B.V.",
-      "kvk": "77518101"
     },
     {
       "organisation": "LRQA Nederland B.V.",
@@ -27270,6 +27386,10 @@
       "kvk": "24293650"
     },
     {
+      "organisation": "Maas Projecten B.V.",
+      "kvk": "93142153"
+    },
+    {
       "organisation": "Maass Special Alloys Nederland B.V.",
       "kvk": "62767526"
     },
@@ -27442,7 +27562,7 @@
       "kvk": "70240833"
     },
     {
-      "organisation": "Magazijn \"\"De Bijenkorf\"\" B.V.",
+      "organisation": "Magazijn \"De Bijenkorf\" B.V.",
       "kvk": "33116577"
     },
     {
@@ -27826,7 +27946,7 @@
       "kvk": "57537259"
     },
     {
-      "organisation": "Mariene Informatie Service \"\"Maris\"\" B.V.",
+      "organisation": "Mariene Informatie Service \"Maris\" B.V.",
       "kvk": "27157480"
     },
     {
@@ -27924,6 +28044,10 @@
     {
       "organisation": "Marsh",
       "kvk": "24120005"
+    },
+    {
+      "organisation": "Marsh Re (Belgium) S.A., Netherlands Branch",
+      "kvk": "61835293"
     },
     {
       "organisation": "Marshall Aerospace Netherlands B.V.",
@@ -29474,6 +29598,10 @@
       "kvk": "34270669"
     },
     {
+      "organisation": "Moby Bikes Netherlands B.V.",
+      "kvk": "85188565"
+    },
+    {
       "organisation": "Mocean Forecast B.V.",
       "kvk": "70698708"
     },
@@ -29594,6 +29722,10 @@
       "kvk": "68346832"
     },
     {
+      "organisation": "monaliro B.V.",
+      "kvk": "84060050"
+    },
+    {
       "organisation": "Monday Merch B.V.",
       "kvk": "86827677"
     },
@@ -29708,6 +29840,10 @@
     {
       "organisation": "Moog B.V.",
       "kvk": "28075621"
+    },
+    {
+      "organisation": "MOOK Febo B.V.",
+      "kvk": "70175594"
     },
     {
       "organisation": "Moongy B.V.",
@@ -30886,6 +31022,10 @@
       "kvk": "80060153"
     },
     {
+      "organisation": "Network Point B.V.",
+      "kvk": "91802431"
+    },
+    {
       "organisation": "Network Republic Europe B.V.",
       "kvk": "34347670"
     },
@@ -31218,6 +31358,10 @@
       "kvk": "24174746"
     },
     {
+      "organisation": "Nickoot France B.V.",
+      "kvk": "24173071"
+    },
+    {
       "organisation": "NICo-Lab B.V.",
       "kvk": "64531775"
     },
@@ -31510,6 +31654,10 @@
       "kvk": "09184607"
     },
     {
+      "organisation": "NOBAMA Care B.V.",
+      "kvk": "69050317"
+    },
+    {
       "organisation": "Nobel Biocare Distribution Center B.V.",
       "kvk": "30220841"
     },
@@ -31728,6 +31876,10 @@
     {
       "organisation": "Nortek Oceanografische Instrumenten en Diensten B.V.",
       "kvk": "27250791"
+    },
+    {
+      "organisation": "North Actionsports B.V.",
+      "kvk": "27148142"
     },
     {
       "organisation": "North Sea Tankers B.V.",
@@ -32154,6 +32306,10 @@
       "kvk": "27367015"
     },
     {
+      "organisation": "NX Logistics (Nederland) B.V.",
+      "kvk": "93598297"
+    },
+    {
       "organisation": "NXFiltration",
       "kvk": "64959910"
     },
@@ -32200,6 +32356,10 @@
     {
       "organisation": "O&J Automotive Netherlands B.V.",
       "kvk": "91447704"
+    },
+    {
+      "organisation": "O.M TechSolutions B.V.",
+      "kvk": "90977106"
     },
     {
       "organisation": "O3 Partners N.V.",
@@ -32342,6 +32502,10 @@
       "kvk": "27222430"
     },
     {
+      "organisation": "Ocuma B.V.",
+      "kvk": "81761511"
+    },
+    {
       "organisation": "Odd.Bot",
       "kvk": "72959916"
     },
@@ -32352,10 +32516,6 @@
     {
       "organisation": "Odido Netherlands B.V.",
       "kvk": "33265679"
-    },
-    {
-      "organisation": "Odin Onderwijs B.V. (Cloudwise)",
-      "kvk": "06073970"
     },
     {
       "organisation": "Odin Warehousing & Logistics B.V.",
@@ -32566,6 +32726,10 @@
       "kvk": "17257650"
     },
     {
+      "organisation": "Oliver James Associates B.V.",
+      "kvk": "58599606"
+    },
+    {
       "organisation": "Oliver James Professionals B.V.",
       "kvk": "69912513"
     },
@@ -32690,7 +32854,7 @@
       "kvk": "11062209"
     },
     {
-      "organisation": "Onderlinge Verzekerings-Maatschappij \"\"Noord Nederlandsche P&I Club\"\" U.A.",
+      "organisation": "Onderlinge Verzekerings-Maatschappij \"Noord Nederlandsche P&I Club\" U.A.",
       "kvk": "02011217"
     },
     {
@@ -32804,10 +32968,6 @@
     {
       "organisation": "Onguard B.V.",
       "kvk": "51086751"
-    },
-    {
-      "organisation": "Onior Group B.V.",
-      "kvk": "57725292"
     },
     {
       "organisation": "Online Payment Platform",
@@ -32942,6 +33102,10 @@
       "kvk": "76848337"
     },
     {
+      "organisation": "Openzeka Netherlands",
+      "kvk": "42076609"
+    },
+    {
       "organisation": "Opera Amsterdam B.V.",
       "kvk": "34169393"
     },
@@ -32976,10 +33140,6 @@
     {
       "organisation": "OPSEC INTERNATIONAL B.V.",
       "kvk": "74814990"
-    },
-    {
-      "organisation": "Opsens B.V.",
-      "kvk": "85522562"
     },
     {
       "organisation": "OPT/NET B.V.",
@@ -33224,6 +33384,10 @@
     {
       "organisation": "Ormco B.V.",
       "kvk": "31041706"
+    },
+    {
+      "organisation": "Ormer ICT Outsourcing B.V.",
+      "kvk": "24447629"
     },
     {
       "organisation": "ORMIT B.V.",
@@ -34630,10 +34794,6 @@
       "kvk": "33216013"
     },
     {
-      "organisation": "Planet X FX B.V.",
-      "kvk": "54565359"
-    },
-    {
       "organisation": "PLANETROMEO B.V.",
       "kvk": "34254182"
     },
@@ -34674,16 +34834,16 @@
       "kvk": "75035456"
     },
     {
+      "organisation": "Plastilose Operations B.V.",
+      "kvk": "99101149"
+    },
+    {
       "organisation": "Plat4mation B.V.",
       "kvk": "58858334"
     },
     {
       "organisation": "Plate Websites B.V.",
       "kvk": "61848271"
-    },
-    {
-      "organisation": "Platform 161 Holding",
-      "kvk": "34313166"
     },
     {
       "organisation": "Platinion B.V.",
@@ -34848,6 +35008,10 @@
     {
       "organisation": "PolarReal Debt & Capital Advisory B.V.",
       "kvk": "72363622"
+    },
+    {
+      "organisation": "Polars B.V.",
+      "kvk": "89982223"
     },
     {
       "organisation": "Polarsteps",
@@ -35296,10 +35460,6 @@
     {
       "organisation": "Proactis B.V.",
       "kvk": "34175496"
-    },
-    {
-      "organisation": "ProActive Software Nederland B.V.",
-      "kvk": "34268115"
     },
     {
       "organisation": "Probability B.V.",
@@ -37042,6 +37202,10 @@
       "kvk": "20073278"
     },
     {
+      "organisation": "REpowered B.V.",
+      "kvk": "76565041"
+    },
+    {
       "organisation": "Reprehendo B.V.",
       "kvk": "64570886"
     },
@@ -38582,10 +38746,6 @@
       "kvk": "31045618"
     },
     {
-      "organisation": "Scailable B.V.",
-      "kvk": "77315073"
-    },
-    {
       "organisation": "Scale Logic Europe",
       "kvk": "34143597"
     },
@@ -39046,10 +39206,6 @@
       "kvk": "33224882"
     },
     {
-      "organisation": "Securitas Direct B.V.",
-      "kvk": "17158925"
-    },
-    {
       "organisation": "Security Tools International B.V.",
       "kvk": "70211477"
     },
@@ -39248,6 +39404,10 @@
     {
       "organisation": "Sensia Netherlands B.V.",
       "kvk": "74224921"
+    },
+    {
+      "organisation": "Sensip-Dx B.V.",
+      "kvk": "78391660"
     },
     {
       "organisation": "Sensitech EMEA B.V.",
@@ -39990,6 +40150,10 @@
       "kvk": "61343862"
     },
     {
+      "organisation": "SinExit",
+      "kvk": "71147896"
+    },
+    {
       "organisation": "Singapore Airlines Ltd",
       "kvk": "33134631"
     },
@@ -40128,6 +40292,10 @@
     {
       "organisation": "SJJ Solutions B.V.",
       "kvk": "71377352"
+    },
+    {
+      "organisation": "SJV Marine Tech B.V.",
+      "kvk": "42032205"
     },
     {
       "organisation": "SK Enmove Europe B.V.",
@@ -40508,6 +40676,10 @@
     {
       "organisation": "Snijders Intelligent Automation",
       "kvk": "23051631"
+    },
+    {
+      "organisation": "Snippet Technologies Holding B.V.",
+      "kvk": "81928580"
     },
     {
       "organisation": "Snippet Technologies IT B.V.",
@@ -40936,6 +41108,10 @@
     {
       "organisation": "SoSafe B.V.",
       "kvk": "86607715"
+    },
+    {
+      "organisation": "Sosytraining B.V.",
+      "kvk": "83762043"
     },
     {
       "organisation": "Soterion Benelux B.V.",
@@ -41374,6 +41550,10 @@
       "kvk": "33278320"
     },
     {
+      "organisation": "SSC Space Netherlands B.V.",
+      "kvk": "28076579"
+    },
+    {
       "organisation": "SSE Fire Protection B.V.",
       "kvk": "76068048"
     },
@@ -41658,6 +41838,10 @@
       "kvk": "69242054"
     },
     {
+      "organisation": "Steenfabriek Hedikhuizen B.V.",
+      "kvk": "16074468"
+    },
+    {
       "organisation": "Steenfabriek Spijk B.V.",
       "kvk": "10145486"
     },
@@ -41750,11 +41934,11 @@
       "kvk": "16068007"
     },
     {
-      "organisation": "Stichting \"\"Article 19\"\"",
+      "organisation": "Stichting \"Article 19\"",
       "kvk": "41205236"
     },
     {
-      "organisation": "Stichting \"\"Institute for International Criminal Investigations Foundation\"\"",
+      "organisation": "Stichting \"Institute for International Criminal Investigations Foundation\"",
       "kvk": "27248986"
     },
     {
@@ -42112,10 +42296,6 @@
     {
       "organisation": "Stichting Fair Wear Foundation",
       "kvk": "34111374"
-    },
-    {
-      "organisation": "Stichting Fairfood International",
-      "kvk": "34141098"
     },
     {
       "organisation": "Stichting Flevoziekenhuis",
@@ -42482,6 +42662,10 @@
       "kvk": "41126751"
     },
     {
+      "organisation": "Stichting Le Guess Who?",
+      "kvk": "51954222"
+    },
+    {
       "organisation": "Stichting Levazorg",
       "kvk": "72306432"
     },
@@ -42516,6 +42700,10 @@
     {
       "organisation": "Stichting Mayday Rescue Foundation",
       "kvk": "64492915"
+    },
+    {
+      "organisation": "Stichting MeanderGroep Zuid-Limburg",
+      "kvk": "41071981"
     },
     {
       "organisation": "Stichting Medewerkers Rotterdams Philharmonisch Orkest",
@@ -42558,6 +42746,10 @@
       "kvk": "41169362"
     },
     {
+      "organisation": "Stichting Nationaal Testcentrum Circulaire Plastics",
+      "kvk": "72936037"
+    },
+    {
       "organisation": "Stichting Nationale Opera & Ballet",
       "kvk": "33263417"
     },
@@ -42574,7 +42766,7 @@
       "kvk": "41194855"
     },
     {
-      "organisation": "Stichting Nederlands Instituut voor Internationale Betrekkingen \"\"Clingendael\"\"",
+      "organisation": "Stichting Nederlands Instituut voor Internationale Betrekkingen \"Clingendael\"",
       "kvk": "41152832"
     },
     {
@@ -43074,6 +43266,14 @@
       "kvk": "62332252"
     },
     {
+      "organisation": "Stichting Zorggroep Ter Weel",
+      "kvk": "41114350"
+    },
+    {
+      "organisation": "Stifting Fryske Akademy",
+      "kvk": "41000640"
+    },
+    {
       "organisation": "Stijlgroep Landschap en Stedelijke Ruimte B.V.",
       "kvk": "24246124"
     },
@@ -43156,6 +43356,10 @@
     {
       "organisation": "Stranded Flight Solutions B.V.",
       "kvk": "59479787"
+    },
+    {
+      "organisation": "Strandpaviljoen Paal 17 B.V.",
+      "kvk": "37133547"
     },
     {
       "organisation": "Stratasys Netherlands B.V.",
@@ -43294,10 +43498,6 @@
       "kvk": "90529561"
     },
     {
-      "organisation": "Studio SAAM",
-      "kvk": "74227939"
-    },
-    {
       "organisation": "Studio SAAM B.V.",
       "kvk": "98909681"
     },
@@ -43336,6 +43536,10 @@
     {
       "organisation": "Studytube B.V.",
       "kvk": "51290901"
+    },
+    {
+      "organisation": "Stulz Groep B.V.",
+      "kvk": "33100502"
     },
     {
       "organisation": "STX Commodities",
@@ -43484,6 +43688,10 @@
     {
       "organisation": "Sunoco Amsterdam Terminal B.V.",
       "kvk": "64731820"
+    },
+    {
+      "organisation": "Sunoil Employment B.V.",
+      "kvk": "04085990"
     },
     {
       "organisation": "Sun-Power Agro Uitzendbureau B.V.",
@@ -44000,6 +44208,10 @@
     {
       "organisation": "TAAL Tech India Private Limited",
       "kvk": "76316319"
+    },
+    {
+      "organisation": "Taalschool Rijswijk",
+      "kvk": "73147834"
     },
     {
       "organisation": "Tachyon Security B.V.",
@@ -44534,6 +44746,10 @@
       "kvk": "92227074"
     },
     {
+      "organisation": "TBR B.V.",
+      "kvk": "02331393"
+    },
+    {
       "organisation": "TBRM-Engineering Solutions B.V.",
       "kvk": "17281805"
     },
@@ -44676,6 +44892,10 @@
     {
       "organisation": "Techlab B.V.",
       "kvk": "71056793"
+    },
+    {
+      "organisation": "Techleap Community B.V.",
+      "kvk": "99047381"
     },
     {
       "organisation": "TechNature B.V.",
@@ -45030,6 +45250,10 @@
       "kvk": "08167177"
     },
     {
+      "organisation": "TenCate Grass Holding B.V.",
+      "kvk": "08211238"
+    },
+    {
       "organisation": "Tencent International Service Europe B.V.",
       "kvk": "70972966"
     },
@@ -45052,6 +45276,10 @@
     {
       "organisation": "Tenpay Global Europe B.V.",
       "kvk": "72082860"
+    },
+    {
+      "organisation": "Tenpu B.V.",
+      "kvk": "89925858"
     },
     {
       "organisation": "Tentech B.V.",
@@ -45198,10 +45426,6 @@
       "kvk": "30110625"
     },
     {
-      "organisation": "Tex Technology Europe B.V.",
-      "kvk": "89886976"
-    },
-    {
       "organisation": "Texas Instruments Holland B.V.",
       "kvk": "06022045"
     },
@@ -45232,10 +45456,6 @@
     {
       "organisation": "Thales Nederland",
       "kvk": "06061578"
-    },
-    {
-      "organisation": "The 4th Paradigm Europe B.V.",
-      "kvk": "77080483"
     },
     {
       "organisation": "The Angel Foundation B.V.",
@@ -45734,10 +45954,6 @@
       "kvk": "76591581"
     },
     {
-      "organisation": "Thunderhead B.V.",
-      "kvk": "53457099"
-    },
-    {
       "organisation": "Thus Meddens Mudde Technology B.V.",
       "kvk": "74991833"
     },
@@ -46146,6 +46362,10 @@
       "kvk": "33290078"
     },
     {
+      "organisation": "TOMOE EUROPE B.V.",
+      "kvk": "99235250"
+    },
+    {
       "organisation": "Tomoegawa Europe B.V.",
       "kvk": "33175669"
     },
@@ -46232,6 +46452,10 @@
     {
       "organisation": "TopChiro Rotterdam B.V.",
       "kvk": "80913733"
+    },
+    {
+      "organisation": "TopChiro Veldhoven B.V.",
+      "kvk": "80897894"
     },
     {
       "organisation": "TOPCHIRO Weert B.V.",
@@ -46374,6 +46598,10 @@
       "kvk": "77596722"
     },
     {
+      "organisation": "Tover Health Tech B.V.",
+      "kvk": "96453419"
+    },
+    {
       "organisation": "TOWA Europe B.V.",
       "kvk": "58915656"
     },
@@ -46454,6 +46682,10 @@
       "kvk": "27233771"
     },
     {
+      "organisation": "TracXon B.V.",
+      "kvk": "85320773"
+    },
+    {
       "organisation": "Trade Compliance Europe B.V.",
       "kvk": "09130113"
     },
@@ -46490,6 +46722,10 @@
       "kvk": "78179513"
     },
     {
+      "organisation": "Traffic Service Nederland B.V.",
+      "kvk": "11028475"
+    },
+    {
       "organisation": "Traffic4u B.V.",
       "kvk": "02071911"
     },
@@ -46500,6 +46736,10 @@
     {
       "organisation": "Trafigura Services Netherlands B.V.",
       "kvk": "71666095"
+    },
+    {
+      "organisation": "TrainTool B.V.",
+      "kvk": "53801016"
     },
     {
       "organisation": "TRAJECT Services B.V.",
@@ -46552,6 +46792,10 @@
     {
       "organisation": "Transporting Wheels B.V.",
       "kvk": "60912332"
+    },
+    {
+      "organisation": "Transtal Shipping B.V.",
+      "kvk": "84851554"
     },
     {
       "organisation": "Transworld Oil Computer Centrum B.V.",
@@ -47378,10 +47622,6 @@
       "kvk": "92039200"
     },
     {
-      "organisation": "Unibail-Rodamco-Westfield N.V.",
-      "kvk": "70898618"
-    },
-    {
       "organisation": "Unica Datacenters B.V.",
       "kvk": "06022065"
     },
@@ -47468,6 +47708,10 @@
     {
       "organisation": "UNIQLO EUROPE LTD Dutch Branch",
       "kvk": "70787077"
+    },
+    {
+      "organisation": "Unique Bridal",
+      "kvk": "89545192"
     },
     {
       "organisation": "Unique ID B.V.",
@@ -47580,6 +47824,10 @@
     {
       "organisation": "United Petfood Nederland Nieuwkoop B.V.",
       "kvk": "52486079"
+    },
+    {
+      "organisation": "United Repair Centre International B.V.",
+      "kvk": "84805404"
     },
     {
       "organisation": "United World College Maastricht",
@@ -48286,10 +48534,6 @@
       "kvk": "72236299"
     },
     {
-      "organisation": "Van Wijnen Engineering Dordrecht B.V.",
-      "kvk": "23044201"
-    },
-    {
       "organisation": "Van Winkoop Spuiterij B.V.",
       "kvk": "08141454"
     },
@@ -48456,10 +48700,6 @@
     {
       "organisation": "VCC Trading Group Netherlands B.V.",
       "kvk": "75818892"
-    },
-    {
-      "organisation": "VCD Business Solutions B.V.",
-      "kvk": "02034284"
     },
     {
       "organisation": "VCKG Holding B.V.",
@@ -48768,6 +49008,10 @@
     {
       "organisation": "Veris Holding B.V.",
       "kvk": "57116083"
+    },
+    {
+      "organisation": "Verisure B.V.",
+      "kvk": "17158925"
     },
     {
       "organisation": "Veritas Marine Inspections",
@@ -50094,6 +50338,10 @@
       "kvk": "85230154"
     },
     {
+      "organisation": "We Grow Webshops",
+      "kvk": "82653135"
+    },
+    {
       "organisation": "We4Sea B.V.",
       "kvk": "65476417"
     },
@@ -50632,6 +50880,10 @@
     {
       "organisation": "Wisdom Lines Europe B.V.",
       "kvk": "76508285"
+    },
+    {
+      "organisation": "Wishful Thinking Software and Solutions B.V. bij afkorting genaamd: W.T.S.S. B.V.",
+      "kvk": "24370931"
     },
     {
       "organisation": "Wispex Transit NL B.V.",
@@ -51654,6 +51906,10 @@
       "kvk": "01106766"
     },
     {
+      "organisation": "Zebra-Flex B.V.",
+      "kvk": "65324269"
+    },
+    {
       "organisation": "ZEEKR EU B.V.",
       "kvk": "88529789"
     },
@@ -51900,6 +52156,10 @@
     {
       "organisation": "Zimmer Biomet Nederland B.V.",
       "kvk": "31041140"
+    },
+    {
+      "organisation": "Zineps Platform B.V.",
+      "kvk": "94063079"
     },
     {
       "organisation": "Zipper B.V.",

@@ -1,9 +1,9 @@
 {
   "category": "study",
   "source_url": "https://ind.nl/en/public-register-recognised-sponsors/public-register-study",
-  "source_last_updated": "5 October 2026",
-  "scraped_at": "2026-11-02T14:59:54.155382+00:00",
-  "count": 77,
+  "source_last_updated": "3 November 2026",
+  "scraped_at": "2026-11-09T15:29:58.071745+00:00",
+  "count": 78,
   "organisations": [
     {
       "organisation": "AIS Vliegopleidingen B.V.",
@@ -168,6 +168,10 @@
     {
       "organisation": "Schoolvision B.V.",
       "kvk": "34254662"
+    },
+    {
+      "organisation": "SOMT University of Physiotherapy",
+      "kvk": "41090312"
     },
     {
       "organisation": "STC - Group",
